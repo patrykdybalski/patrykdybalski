@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div><h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A happy Flutter Developer from Poland</h3>
 
