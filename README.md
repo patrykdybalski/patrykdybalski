@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Patryk</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
+</div><h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A happy Flutter Developer from Poland</h3>
 
 - 🔭 I’m currently working on [HOOKIT SMART ASSISTANT](https://github.com/patrykdybalski/smart_assistant)
