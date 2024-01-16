@@ -4,7 +4,7 @@
 </div><h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A happy Flutter Developer from Poland</h3>
 
-- 🔭 I’m currently working on [HOOKIT SMART ASSISTANT](https://github.com/patrykdybalski/smart_assistant)
+- 🔭 I’m currently working on [NOTSY](https://github.com/patrykdybalski/NOTSY)
 
 - 🌱 I’m currently **programming mobile applications in the Flutter environment is where I feel most comfortable**
 
